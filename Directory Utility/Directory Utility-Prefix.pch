@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Icon Changer' target in the 'Icon Changer' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
